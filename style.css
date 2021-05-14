@@ -1,4 +1,7 @@
 /* Tag selector to select the 'body' element */
+head {
+  color: red;
+}
 body {
   /* Your code here! */
   background-color: #00b3e6;
